@@ -15,7 +15,7 @@
 
     // 创建悬浮窗口元素
     const floatWindow = document.createElement('div');
-    floatWindow.style.cssText = 'position:fixed; top:0; right:0; width:5px; height:100%; background:#000; opacity:0.1; z-index:9999; transition:opacity 0.3s;';
+    floatWindow.style.cssText = 'position:fixed; top:0; right:0; width:5px; height:60px; background:#000; opacity:0.1; z-index:9999; transition:opacity 0.3s;';
     floatWindow.className = 'custom-float-window';
 
     // 创建展开的菜单

@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         danbooru tags
-// @namespace    https://github.com/hoppo-chan/danbooru_tags
+// @updateURL    https://raw.githubusercontent.com/hoppo-chan/danbooru_tags/main/danbooru_tags.user.js
+// @downloadURL  https://raw.githubusercontent.com/hoppo-chan/danbooru_tags/main/danbooru_tags.user.js
 // @version      2024-03-08
 // @description  快速获取danbooru的tag帮助你更好的使用novelai
 // @author       星空喵

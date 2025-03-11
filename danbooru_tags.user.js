@@ -4,7 +4,7 @@
 // @downloadURL  https://raw.githubusercontent.com/hoppo-chan/danbooru_tags/main/danbooru_tags.user.js
 // @version      2024-03-08
 // @description  快速获取danbooru的tag帮助你更好的使用novelai
-// @author       星空喵
+// @author       hoppo-chan
 // @match        https://danbooru.donmai.us/posts/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=donmai.us
 // @grant        none
